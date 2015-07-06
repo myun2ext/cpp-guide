@@ -1,3 +1,3 @@
 # vector (STL)
 
-* `std::vector<T>`
+* `std::vector<ValueType>`
