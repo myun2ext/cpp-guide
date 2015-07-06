@@ -1,3 +1,3 @@
 # map (STL)
 
-* `std::map<KeyType, ValueType>'
+* `std::map<KeyType, ValueType>`
